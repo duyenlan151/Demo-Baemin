@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Baemin",
+    "slug": "Baemin",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "Baemin"
+}
