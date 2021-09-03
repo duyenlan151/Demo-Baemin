@@ -2,5 +2,5 @@
 
 ## Demo Baemin
 
-![a-Baemin.jpg](/src/assets/demo/01.png =200x200)
+![/src/assets/demo/01.png](/src/assets/demo/01.png =200x200)
 
