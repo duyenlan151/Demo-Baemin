@@ -1,11 +1,10 @@
 ![][1]
 
-![Demo Baemin][2]
+## Demo Baemin
 
 
 
-
-[1]: /src/assets/demo/01.png
-[2]: /src/assets/demo/02.png
-[2]: /src/assets/demo/03.png
+![drawing](/src/assets/demo/01.png){ width=150ox }
+![drawing](/src/assets/demo/02.png){ width=150ox }
+![drawing](/src/assets/demo/03.png){ width=150ox }
 
